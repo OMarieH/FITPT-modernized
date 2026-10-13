@@ -1,0 +1,45 @@
+{
+  "title": "30-Minute Beginner Upper-Body Strength Session",
+  "safety_note": "Use a pain-free range of motion and stop if an exercise causes sharp pain.",
+  "exercises": [
+    {
+      "name": "Seated Cable Row",
+      "sets": 3,
+      "reps": "8-10",
+      "rest_seconds": 60,
+      "instructions": "Keep the torso stable and pull the handle toward the lower ribs.",
+      "modification": "Reduce the resistance and use a neutral grip if needed."
+    },
+    {
+      "name": "Machine Chest Press",
+      "sets": 3,
+      "reps": "8-10",
+      "rest_seconds": 60,
+      "instructions": "Keep the shoulders down and control both phases of each repetition.",
+      "modification": "Use a lighter load and stop before the elbows move behind the torso."
+    },
+    {
+      "name": "Lat Pulldown",
+      "sets": 3,
+      "reps": "10-12",
+      "rest_seconds": 60,
+      "instructions": "Pull toward the upper chest without swinging or leaning backward.",
+      "modification": "Lower the weight until every repetition can be controlled."
+    }
+  ],
+  "journal_questions": [
+    "Which movement felt strongest today?",
+    "Did you maintain control during every repetition?",
+    "What resistance would you keep or change next time?"
+  ],
+  "sources": [
+    {
+      "title": "Strength Training 101: Where Do I Start?",
+      "url": "https://www.nerdfitness.com/blog/strength-training-101-where-do-i-start/"
+    },
+    {
+      "title": "How to Build Your Own Workout Routine",
+      "url": "https://www.nerdfitness.com/blog/how-to-build-your-own-workout-routine/"
+    }
+  ]
+}

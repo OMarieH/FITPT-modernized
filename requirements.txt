@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12,<5
+openai>=1.40,<3
+pinecone>=5,<8
+requests>=2.31,<3
