@@ -37,3 +37,10 @@ python -m unittest discover -s tests -v
 ```
 
 Poster-ready explanations and an example response are in `poster/`.
+
+## Raspberry Pi squat showcase core
+
+The hardware-independent squat counter and JSON session recorder live in
+[`pose_demo/`](pose_demo/README.md). They can be developed and tested without
+the Pi or Hailo SDK. The camera/Hailo callback and live drawing are the next
+integration step on the Pi.
